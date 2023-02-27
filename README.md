@@ -55,7 +55,7 @@
   ## 📫 &nbsp;My Contacts
 
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
-  [![LinkedIn Badge](https://img.shields.io/badge/-Ewerthon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ewerthon-izidoro/)](https://www.linkedin.com/in/pablodsilva/](https://www.linkedin.com/in/ewerthon-izidoro/))&nbsp;
+  [![LinkedIn Badge](https://img.shields.io/badge/-Ewerthon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ewerthon-izidoro/] (https://www.linkedin.com/in/ewerthon-izidoro/)&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/-ewer.izi@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ewer.izi@gmail.com)&nbsp;
 </div>
 
