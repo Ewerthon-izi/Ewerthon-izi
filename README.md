@@ -2,7 +2,7 @@
 
   ## 🧭 &nbsp;About Me
 
-  - 📚 Information System student at UFPI.
+  - 📚 Graduation in Computer Science at UNICENTRO.
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
 
   - 🌱  I’m always studying **C#**, **C/C++**, **.NET**, **ASP.NET**, **Python**.
