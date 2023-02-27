@@ -1,12 +1,66 @@
-<p align="center" style="height: 180px;">
-    <img style="height:10rem" src="https://github-readme-stats.vercel.app/api?username=Niefee&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" />
-    <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=Niefee&theme=radical&show_icons=true&border=e4e2e2" />
-</p>
+<div>
+
+  ## 🧭 &nbsp;About Me
+
+  - 📚 Information System student at UFPI.
+  <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
+
+  - 🌱  I’m always studying **C#**, **C/C++**, **.NET**, **ASP.NET**, **Python**.
+
+  <br>
+  
+
+</div>
+
 
 <div align="center">
-    <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-    </picture>
+
+  `Developer and AI enthusiast`
+  <br>
+
+  `=========================`
+  <br>
+
+  `¯\_(ツ)_/¯`
+</div>
+
+<div>
+
+  ## 🛠️ &nbsp;My Tech Stacks
+
+  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
+  ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
+
+</div>
+
+
+<div>
+
+  ## 📊 &nbsp;My activities
+  <a href="https://github.com/Pepyn0">
+    <img width=450 height=170 align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api?username=Pepyn0&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/Pepyn0">
+    <img align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepyn0&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+</div>
+
+<div>
+  ## 📫 &nbsp;My Contacts
+
+  <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
+  [![LinkedIn Badge](https://img.shields.io/badge/-Ewerthon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ewerthon-izidoro/))](https://www.linkedin.com/in/pablodsilva/](https://www.linkedin.com/in/ewerthon-izidoro/))&nbsp;
+  [![Gmail Badge](https://img.shields.io/badge/-ewer.izi@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ewer.izi@gmail.com)&nbsp;
+</div>
+
+
+<!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
+
+<div>
+  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
